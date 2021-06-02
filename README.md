@@ -1,2 +1,2 @@
 # DataUofManchester
-Parameters and optimizaiton results of IES in University of Manchester
+Parameters and optimizaiton results of integrated energy system in University of Manchester
