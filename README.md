@@ -1,4 +1,4 @@
-# DataUofManchester
+# Parameters and dispatch results of the integrated energy system in the University of Manchester
 Parameters and optimizaiton results of the integrated energy system in the University of Manchester.
 
 One can refer to the following article for detailed explanation of the data. Please cite this article if you want to cite the data.
